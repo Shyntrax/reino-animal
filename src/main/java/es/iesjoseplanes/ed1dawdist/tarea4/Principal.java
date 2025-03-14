@@ -1,6 +1,12 @@
 package es.iesjoseplanes.ed1dawdist.tarea4;
 
-
+/**
+ * @author Ivang
+ * @version 1.0
+ * @see Principal
+ * 
+ * Clase Principal del proyecto.
+ */
 public class Principal {
 
     public static void main(String[] args) {
